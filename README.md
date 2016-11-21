@@ -1,2 +1,2 @@
 # SubeCodigo
-Un tutorial de cómo subir código a GitHub
+Un tutorial de cómo subir código a **GitHub** bastate básico.
